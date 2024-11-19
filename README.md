@@ -5,3 +5,7 @@ Prior: https://github.com/INmais/LEIS-2001-collaborative-project
 Copy prior example with FB data
 
 https://colab.research.google.com/github/INmais/LEIS-2001-collaborative-project/blob/main/Mobility/Mobility_geospatial_data.ipynb
+
+
+Meta: Movement Distribution Maps (2 samples PT)
+Info: https://dataforgood.facebook.com/dfg/tools/movement-distribution-maps
