@@ -43,3 +43,5 @@ Ask: https://insights.sustainability.google/labs?hl=en-US
 Copernicus (not sure if this does the trick)
 - Sentinel-1 Level 1 Ground Range Detected (GRD) traffic  https://hda.central.data.destination-earth.eu/ui/dataset/EO.ESA.DAT.SENTINEL-1.L1_GRD
 
+https://colab.research.google.com/github/INmais/LEIS-2001-collaborative-project/blob/main/Mobility/Mobility_geospatial_data.ipynb
+
